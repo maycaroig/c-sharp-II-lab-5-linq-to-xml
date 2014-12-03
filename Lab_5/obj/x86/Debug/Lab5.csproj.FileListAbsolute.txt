@@ -1,0 +1,10 @@
+C:\Users\Hytham\Downloads\Lab5 - Start(2)\Lab5 - Start\obj\x86\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\Hytham\Downloads\Lab5 - Start(2)\Lab5 - Start\bin\Debug\Lab5.exe
+C:\Users\Hytham\Downloads\Lab5 - Start(2)\Lab5 - Start\bin\Debug\Lab5.pdb
+C:\Users\Hytham\Downloads\Lab5 - Start(2)\Lab5 - Start\obj\x86\Debug\Lab5.exe
+C:\Users\Hytham\Downloads\Lab5 - Start(2)\Lab5 - Start\obj\x86\Debug\Lab5.pdb
+C:\Users\student\Desktop\Lab5\Lab5\Lab5\obj\x86\Debug\Lab5.exe
+C:\Users\student\Desktop\Lab5\Lab5\Lab5\obj\x86\Debug\Lab5.pdb
+C:\Users\student\Desktop\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\student\Desktop\Lab5\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\student\Desktop\Lab5\Lab5\Lab5\obj\x86\Debug\Lab5.csprojResolveAssemblyReference.cache
